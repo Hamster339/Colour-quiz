@@ -4,6 +4,8 @@ A simple PHP website that askes a user for thier favorate colour and saves it to
 This was created from not having used any PHP or Microsoft SQL server before in a couple days.
 
 ## requirements
+JQuery (Packaged in incldues folder)
+
 Requires a Microsoft SQL server database to be set-up and commnected. The database design is not given.
 
 ## Running Instuctions
